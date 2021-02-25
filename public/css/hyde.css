@@ -244,9 +244,9 @@ a.sidebar-nav-item:focus {
 .theme-wcu .sidebar {
   background-color: #592C88;
 }
-.theme-base-0f .content a,
-.theme-base-0f .related-posts li a:hover {
-  color: #C1A875;
+.theme-wcu .content a,
+.theme-wcu .related-posts li a:hover {
+  color: #592C88;
 }
 /* Brown */
 .theme-base-0f .sidebar {
