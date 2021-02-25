@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to MeetDarryl
+title: Welcome to Darryl's Website
 ---
 
 Welcome to MeetDarryl, this is a website put together to give updates on how Darryl is doing, to share stories about the people he’s touched, and to gather community support to help Darryl and his family through this difficult time.
