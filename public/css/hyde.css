@@ -240,6 +240,14 @@ a.sidebar-nav-item:focus {
   color: #aa759f;
 }
 
+/* WCU */
+.theme-wcu .sidebar {
+  background-color: #592C88;
+}
+.theme-base-0f .content a,
+.theme-base-0f .related-posts li a:hover {
+  color: #C1A875;
+}
 /* Brown */
 .theme-base-0f .sidebar {
   background-color: #8f5536;
